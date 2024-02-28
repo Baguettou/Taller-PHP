@@ -27,16 +27,16 @@
     <p>Menu de ejercicios</p>
     <div style="display: flex; justify-content: center; gap: 10px;">
         <div style="border: 1px solid black; background-color: #d4e4fc; text-align: center; align-items: center;">
-            <a href="home.php" class="boton">Ejercicio 1</a>
+            <a href="AndresCala - Seccion 6/html/Index.html" class="boton">Andrés Cala - Sección 6</a>
         </div>
         <div style="border: 1px solid black; background-color: #d4e4fc; text-align: center; align-items: center;">
-            <a href="home.php" class="boton">Ejercicio 2</a>
+            <a href="JuanArenas - Sección 5/PHP/index.php" class="boton">Juan Arenas - Sección 5</a>
         </div>
         <div style="border: 1px solid black; background-color: #d4e4fc; text-align: center; align-items: center;">
-            <a href="index.php" class="boton">Ejercicio 3</a>
+            <a href="KarenCastellanos - Sección 2/php/documento_php.php" class="boton">Karen Castellanos - Sección 2</a>
         </div>
         <div style="border: 1px solid black; background-color: #d4e4fc; text-align: center; align-items: center;">
-            <a href="index.php" class="boton">Ejercicio 4</a>
+            <a href="PedroPalencia - Sección 1/php/index.php" class="boton">Pedro Palencia - Sección 1</a>
         </div>
     </div>
 
