@@ -33,10 +33,10 @@
             <a href="home.php" class="boton">Ejercicio 2</a>
         </div>
         <div style="border: 1px solid black; background-color: #d4e4fc; text-align: center; align-items: center;">
-            <a href="eje3.php" class="boton">Ejercicio 3</a>
+            <a href="index.php" class="boton">Ejercicio 3</a>
         </div>
         <div style="border: 1px solid black; background-color: #d4e4fc; text-align: center; align-items: center;">
-            <a href="primos.php" class="boton">Ejercicio 4</a>
+            <a href="index.php" class="boton">Ejercicio 4</a>
         </div>
     </div>
 
