@@ -38,9 +38,18 @@ $edad2 = $_GET['persona2'];
 $edad3 = $_GET['persona3'];
 $promedio = ($edad1+$edad2+$edad3)/3;
 
+$menor = 0;
+if ($edad1<$edad2  &&  $edad1<$edad3){
+    $menor = $edad1;
+}elseif($edad2<$edad1  &&  $edad2<$edad3){
+    $menor = $edad2;
+}elseif($edad3<$edad1  &&  $edad3<$edad2){
+    $menor = $edad3;
+}
 ?>
 </pre>
 
 <h1>El promedio es <?php echo $promedio?></h1>
+<h1>La edad más joven es <?php echo $menor?></h1>
 </body>
 </html>
